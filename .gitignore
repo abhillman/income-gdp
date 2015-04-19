@@ -1,0 +1,5 @@
+.DS_STORE
+*.pyc
+gdp_income-env/*
+*.swo
+*.swp
